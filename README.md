@@ -1,7 +1,4 @@
-🌸 Flower Classification using CNN
-
-
-Example banner image – replace with your own project image (e.g., sample flower dataset visualization or architecture diagram).
+                                          🌸 Flower Classification using CNN
 
 📌 Project Overview
 
