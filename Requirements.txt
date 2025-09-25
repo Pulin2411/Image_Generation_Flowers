@@ -1,0 +1,7 @@
+Python 3.8+
+
+TensorFlow / Keras
+
+Matplotlib, NumPy, Random
+
+KaggleHub
